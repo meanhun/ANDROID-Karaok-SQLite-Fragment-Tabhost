@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/drawable/bg_menubottom.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/drawable/bg_mid.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/drawable/bg_topshop.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/drawable/ic_alert_octagon.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/drawable/ic_bell.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/drawable/ic_heart.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/drawable/ic_heart2.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/drawable/ic_home.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/drawable/ic_shopping_bag.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/drawable/ic_shopping_cart.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/drawable/ic_user.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/layout/fragment_left.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/layout/fragment_right.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/layout/item.xml" value="0.23233695652173914" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/layout/lovepet_fragment.xml" value="0.23233695652173914" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/layout/shopping_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/layout/shopping_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/meanHun/Desktop/HwangMeanHun/app/src/main/res/menu/menu_bottom.xml" value="0.259375" />
+        <entry key="..\:/Z_Android_Test/HwangMeanHun/app/src/main/res/drawable/ic_heart2.xml" value="0.25833333333333336" />
+        <entry key="..\:/Z_Android_Test/HwangMeanHun/app/src/main/res/drawable/ic_shopping_bag.xml" value="0.25833333333333336" />
+        <entry key="..\:/Z_Android_Test/HwangMeanHun/app/src/main/res/layout/activity_layout_item.xml" value="0.16304347826086957" />
+        <entry key="..\:/Z_Android_Test/HwangMeanHun/app/src/main/res/layout/activity_main.xml" value="0.16304347826086957" />
+        <entry key="..\:/Z_Android_Test/HwangMeanHun/app/src/main/res/layout/home_fragment.xml" value="0.264" />
+        <entry key="..\:/Z_Android_Test/HwangMeanHun/app/src/main/res/layout/item.xml" value="0.264" />
+        <entry key="..\:/Z_Android_Test/HwangMeanHun/app/src/main/res/layout/item_default.xml" value="0.15625" />
+        <entry key="..\:/Z_Android_Test/HwangMeanHun/app/src/main/res/layout/item_love.xml" value="0.16304347826086957" />
+        <entry key="..\:/Z_Android_Test/HwangMeanHun/app/src/main/res/layout/lovepet_fragment.xml" value="0.16304347826086957" />
+        <entry key="..\:/Z_Android_Test/HwangMeanHun/app/src/main/res/layout/shopping_fragment.xml" value="0.16304347826086957" />
+        <entry key="..\:/Z_Android_Test/HwangMeanHun/app/src/main/res/menu/menu_bottom.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

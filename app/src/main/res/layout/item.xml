@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView
+        android:layout_margin="5dp"
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="5dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <TextView
+                android:id="@+id/id_Song"
+                android:layout_width="160dp"
+                android:layout_height="160dp"
+                android:layout_marginLeft="10dp"
+                android:text="1234"
+                android:textSize="60dp"
+                android:textColor="@color/textcolor"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/txt_nameSong"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/id_Song"
+                android:text="Tên bài hát"
+                android:textAlignment="center"
+                android:textColor="@color/textcolor"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_theloai"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_nameSong"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_toRightOf="@id/id_Song"
+                android:text="Thể loại:"
+                android:textColor="@color/textcolor"
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/txt_nameSinger"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_theloai"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="15dp"
+                android:layout_toRightOf="@id/id_Song"
+                android:text="Ca sĩ: Hoàng mạnh hùng"
+                android:textColor="@color/textcolor"
+                android:textSize="16dp" />
+
+            <androidx.cardview.widget.CardView
+                android:layout_below="@+id/txt_nameSinger"
+                android:layout_toRightOf="@id/id_Song"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="35dp"
+                android:id="@+id/card_view2"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                app:cardCornerRadius="5dp">
+
+                <ImageButton
+                    android:id="@+id/imgLove"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/white"
+                    android:src="@drawable/ic_heart"
+                    tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+            </androidx.cardview.widget.CardView>
+
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_below="@+id/txt_nameSinger"
+                android:layout_toRightOf="@id/card_view2"
+                android:layout_marginTop="5dp"
+                android:id="@+id/card_view5"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                app:cardCornerRadius="5dp">
+
+                <ImageButton
+                    android:id="@+id/imgProfile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/white"
+                    android:src="@drawable/ic_alert_octagon"
+                    tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+            </androidx.cardview.widget.CardView>
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>
